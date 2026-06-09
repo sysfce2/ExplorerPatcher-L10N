@@ -39,7 +39,7 @@ We would like to thank the following people for their contributions in translati
 | Czech                 | originally: @9hb, now: @andrewz1986, @Panzimy   |
 | Dutch                 | @GewoonIraj                                     |
 | French                | @corentios, @Need74                             |
-| German                | @lukinator01, @NotOfficer                       |
+| German                | @Kichura, @lukinator01, @Mr-Update, @NotOfficer |
 | Greek                 | @KonVetsos                                      |
 | Hungarian             | @RedyAu                                         |
 | Indonesian            | @Antonomasia, @Amrsatrio                        |
