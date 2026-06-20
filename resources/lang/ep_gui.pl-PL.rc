@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Kliknięcie na ikonę systemu w zasobniku systemowym, otwiera:"
     IDS_TRAY_NETWORK            "Sieć"
     IDS_TRAY_NETWORK_6          "Centrum sterowania"
-    IDS_TRAY_NETWORK_5          "Wysuwane menu Windows 11 WiFi"
+    IDS_TRAY_NETWORK_5          "Wysuwane menu Windows 11 Wi-Fi"
     IDS_TRAY_NETWORK_0          "Wysuwane menu Windows 10 (domyślnie)"
     IDS_TRAY_NETWORK_2          "Wysuwane menu Windows 8"
     IDS_TRAY_NETWORK_1          "Sekcję sieci w aplikacji Ustawienia"

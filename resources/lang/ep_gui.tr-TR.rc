@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Sistem tepsisindeki bir sistem simgesine tıkladığınızda şunu açın"
     IDS_TRAY_NETWORK            "Ağ"
     IDS_TRAY_NETWORK_6          "Kontrol Merkezi"
-    IDS_TRAY_NETWORK_5          "Windows 11 WiFi açılır penceresi"
+    IDS_TRAY_NETWORK_5          "Windows 11 Wi-Fi açılır penceresi"
     IDS_TRAY_NETWORK_0          "Windows 10 açılır penceresi (varsayılan)"
     IDS_TRAY_NETWORK_2          "Windows 8 açılır penceresi"
     IDS_TRAY_NETWORK_1          "Ayarlar uygulamasındaki ağ bölümü "

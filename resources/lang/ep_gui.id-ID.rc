@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Saat mengklik ikon berikut di baki sistem, buka:"
     IDS_TRAY_NETWORK            "Jaringan"
     IDS_TRAY_NETWORK_6          "Pusat Kontrol"
-    IDS_TRAY_NETWORK_5          "Flyout WiFi Windows 11"
+    IDS_TRAY_NETWORK_5          "Flyout Wi-Fi Windows 11"
     IDS_TRAY_NETWORK_0          "Flyout Windows 10 (default)"
     IDS_TRAY_NETWORK_2          "Flyout Windows 8"
     IDS_TRAY_NETWORK_1          "Jaringan dan internet di aplikasi Pengaturan"

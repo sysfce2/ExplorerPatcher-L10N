@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Az értesítési terület egy rendszerikonjára kattintva ezt nyissa meg:"
     IDS_TRAY_NETWORK            "Hálózat"
     IDS_TRAY_NETWORK_6          "Gyorselérési gépház"
-    IDS_TRAY_NETWORK_5          "Windows 11-es WiFi úszó panel" // For hungarian contributors: Yes, "úszó panel" seems to be the official MS term for flyout...
+    IDS_TRAY_NETWORK_5          "Windows 11-es Wi-Fi úszó panel" // For hungarian contributors: Yes, "úszó panel" seems to be the official MS term for flyout...
     IDS_TRAY_NETWORK_0          "Windows 10-es úszó panel (alapértelmezett)"
     IDS_TRAY_NETWORK_2          "Windows 8-as úszó panel"
     IDS_TRAY_NETWORK_1          "Hálózat oldal a Beállítások alkalmazásban"

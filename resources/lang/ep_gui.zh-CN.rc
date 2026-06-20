@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "系统托盘按钮控件:"
     IDS_TRAY_NETWORK            "网络"
     IDS_TRAY_NETWORK_6          "控制中心"
-    IDS_TRAY_NETWORK_5          "Windows 11 WiFi"
+    IDS_TRAY_NETWORK_5          "Windows 11 Wi-Fi"
     IDS_TRAY_NETWORK_0          "Windows 10 网络(默认)"
     IDS_TRAY_NETWORK_2          "Windows 8 网络"
     IDS_TRAY_NETWORK_1          "设置 - 网络和 Internet"

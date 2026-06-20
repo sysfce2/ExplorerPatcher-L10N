@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Spaudžiant sistemos piktogramą sistemos dėkle, atidaryti:"
     IDS_TRAY_NETWORK            "Tinklas"
     IDS_TRAY_NETWORK_6          "Valdymo Skydą"
-    IDS_TRAY_NETWORK_5          "Windows 11 WiFi langą"
+    IDS_TRAY_NETWORK_5          "Windows 11 Wi-Fi langą"
     IDS_TRAY_NETWORK_0          "Windows 10 langą (numatytasis)"
     IDS_TRAY_NETWORK_2          "Windows 8 langą"
     IDS_TRAY_NETWORK_1          "Tinklo sekciją Nustatymuose"

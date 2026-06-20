@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Beim Anklicken eines Systemsymbols in der Systemablage öffnen:"
     IDS_TRAY_NETWORK            "Netzwerk"
     IDS_TRAY_NETWORK_6          "Systemsteuerung"
-    IDS_TRAY_NETWORK_5          "Windows 11 WiFi-Flyout"
+    IDS_TRAY_NETWORK_5          "Windows 11 Wi-Fi-Flyout"
     IDS_TRAY_NETWORK_0          "Windows 10-Flyout (Standard)"
     IDS_TRAY_NETWORK_2          "Windows 8-Flyout"
     IDS_TRAY_NETWORK_1          "Netzwerk-Abschnitt in der Einstellungen-App"

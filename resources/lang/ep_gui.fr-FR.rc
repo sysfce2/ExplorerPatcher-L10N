@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Cliquer sur une icône système dans la zone de notifications permet d’ouvrir pour chaque cas :"
     IDS_TRAY_NETWORK            "Réseau"
     IDS_TRAY_NETWORK_6          "Centre de contrôle"
-    IDS_TRAY_NETWORK_5          "Volet WiFi de Windows 11"
+    IDS_TRAY_NETWORK_5          "Volet Wi-Fi de Windows 11"
     IDS_TRAY_NETWORK_0          "Volet de Windows 10 (par défaut)"
     IDS_TRAY_NETWORK_2          "Volet de Windows 8"
     IDS_TRAY_NETWORK_1          "La section réseau dans l’application MS-Paramètres"

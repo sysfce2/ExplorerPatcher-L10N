@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Όταν κάνετε κλικ σε ένα εικονίδιο συστήματος στην περιοχή ειδοποιήσεων, ανοίγει:"
     IDS_TRAY_NETWORK            "Δίκτυο"
     IDS_TRAY_NETWORK_6          "Πίνακας Ελέγχου"
-    IDS_TRAY_NETWORK_5          "Αναδυόμενο παράθυρο WiFi των Windows 11"
+    IDS_TRAY_NETWORK_5          "Αναδυόμενο παράθυρο Wi-Fi των Windows 11"
     IDS_TRAY_NETWORK_0          "Αναδυόμενο παράθυρο των Windows 10 (προεπιλογή)"
     IDS_TRAY_NETWORK_2          "Αναδυόμενο παράθυρο των Windows 8"
     IDS_TRAY_NETWORK_1          "Ενότητα δικτύου στην εφαρμογή Ρυθμίσεις"

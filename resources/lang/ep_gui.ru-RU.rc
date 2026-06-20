@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "При нажатии на системную иконку в области уведомлений открыть:"
     IDS_TRAY_NETWORK            "Сеть"
     IDS_TRAY_NETWORK_6          "Параметры ПК"
-    IDS_TRAY_NETWORK_5          "Стиль Windows 11 WiFi"
+    IDS_TRAY_NETWORK_5          "Стиль Windows 11 Wi-Fi"
     IDS_TRAY_NETWORK_0          "Стиль Windows 10 (по умолчанию)"
     IDS_TRAY_NETWORK_2          "Стиль Windows 8"
     IDS_TRAY_NETWORK_1          "Раздел ""Сеть и интернет"" в приложении настроек"

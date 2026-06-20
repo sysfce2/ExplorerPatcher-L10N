@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Коли ви натискаєте на піктограму системи в треї відкривати:"
     IDS_TRAY_NETWORK            "Мережа"
     IDS_TRAY_NETWORK_6          "Control Center"
-    IDS_TRAY_NETWORK_5          "Windows 11 WiFi flyout"
+    IDS_TRAY_NETWORK_5          "Windows 11 Wi-Fi flyout"
     IDS_TRAY_NETWORK_0          "Windows 10 flyout (системний)"
     IDS_TRAY_NETWORK_2          "Windows 8 flyout"
     IDS_TRAY_NETWORK_1          "Мережа та Інтернет (налаштування)"

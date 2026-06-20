@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "系統通知區域按鈕控制項目 :"
     IDS_TRAY_NETWORK            "網路"
     IDS_TRAY_NETWORK_6          "Windows 11 控制中心"
-    IDS_TRAY_NETWORK_5          "Windows 11 WiFi"
+    IDS_TRAY_NETWORK_5          "Windows 11 Wi-Fi"
     IDS_TRAY_NETWORK_0          "Windows 10 網路 (預設)"
     IDS_TRAY_NETWORK_2          "Windows 8 網路"
     IDS_TRAY_NETWORK_1          "設定中的「網路和網際網路」"

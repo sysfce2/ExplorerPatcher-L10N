@@ -110,7 +110,7 @@ BEGIN
     IDS_TRAY_SYSICONBEHAVIOR    "Al hacer clic en un icono del sistema en la bandeja, abrir"
     IDS_TRAY_NETWORK            "Red"
     IDS_TRAY_NETWORK_6          "Centro de Control"
-    IDS_TRAY_NETWORK_5          "Diseño de WiFi de Windows 11"
+    IDS_TRAY_NETWORK_5          "Diseño de Wi-Fi de Windows 11"
     IDS_TRAY_NETWORK_0          "Diseño de Windows 10 (predeterminado)"
     IDS_TRAY_NETWORK_2          "Diseño de Windows 8"
     IDS_TRAY_NETWORK_1          "Sección de Red en Configuración"
