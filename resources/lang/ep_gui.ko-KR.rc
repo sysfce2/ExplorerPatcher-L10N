@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "버전 %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "이 프로젝트는 Windows의 작업 환경을 향상시키는 것을 목표로 합니다."
-    IDS_ABOUT_AUTHOR            "Valentin-Gabriel Radu가 자랑스럽게 설계했습니다."
+    IDS_ABOUT_AUTHOR            "%s와 %s가 자랑스럽게 설계했습니다."
     IDS_ABOUT_OS                "%s에서 실행 중, OS 빌드 %d.%d."
     IDS_ABOUT_GITHUB            "GitHub 프로젝트 방문"
     IDS_ABOUT_WEBSITE           "웹사이트 방문"

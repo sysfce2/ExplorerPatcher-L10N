@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "版本 %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "该项目立志增强 Windows 工作体验。"
-    IDS_ABOUT_AUTHOR            "Valentin-Gabriel Radu 荣誉出品。"
+    IDS_ABOUT_AUTHOR            "%s 和 %s 荣誉出品。"
     IDS_ABOUT_OS                "系统版本 %s OS Build %d.%d。"
     IDS_ABOUT_GITHUB            "查看项目 GitHub"
     IDS_ABOUT_WEBSITE           "访问官网"

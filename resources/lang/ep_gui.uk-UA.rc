@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Версія %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "Мета проекту покращити досвід роботи з Windows."
-    IDS_ABOUT_AUTHOR            "Розроблений Valentin-Gabriel Radu."
+    IDS_ABOUT_AUTHOR            "Розроблений %s та %s."
     IDS_ABOUT_OS                "Працює на %s, збірка ОС %d.%d."
     IDS_ABOUT_GITHUB            "Відвідайте проект на GitHub"
     IDS_ABOUT_WEBSITE           "Відвідайте веб-сайт"

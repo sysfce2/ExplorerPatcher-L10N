@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Versi %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "Proyek ini bertujuan untuk meningkatkan lingkungan kerja pada Windows."
-    IDS_ABOUT_AUTHOR            "Dengan bangga dipersembahkan oleh Valentin-Gabriel Radu."
+    IDS_ABOUT_AUTHOR            "Dengan bangga dipersembahkan oleh %s dan %s."
     IDS_ABOUT_OS                "Berjalan pada %s, Build OS %d.%d."
     IDS_ABOUT_GITHUB            "Kunjungi GitHub proyek ini"
     IDS_ABOUT_WEBSITE           "Kunjungi situs web"

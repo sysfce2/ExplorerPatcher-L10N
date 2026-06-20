@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Έκδοση %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "Αυτό το έργο στοχεύει στη βελτίωση του περιβάλλοντος εργασίας των Windows."
-    IDS_ABOUT_AUTHOR            "Σχεδιασμένο με υπερηφάνεια από τον Valentin-Gabriel Radu."
+    IDS_ABOUT_AUTHOR            "Σχεδιασμένο με υπερηφάνεια από τους %s και %s."
     IDS_ABOUT_OS                "Τρέχει σε %s, Έκδοση λειτουργικού συστήματος %d.%d."
     IDS_ABOUT_GITHUB            "Επισκεφθείτε το έργο στο GitHub"
     IDS_ABOUT_WEBSITE           "Επισκεφθείτε την ιστοσελίδα"

@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Versija %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "Šis projektas bando patobulinti Windows darbo aplinką."
-    IDS_ABOUT_AUTHOR            "Pasididžiuodamas kūrė Valentin-Gabriel Radu."
+    IDS_ABOUT_AUTHOR            "Pasididžiuodami kūrė %s ir %s."
     IDS_ABOUT_OS                "Veikia %s, operacinės sistemos versija %d.%d."
     IDS_ABOUT_GITHUB            "Apsilankyti projekto GitHub"
     IDS_ABOUT_WEBSITE           "Apsilankyti interneto puslapyje"

@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Sürüm %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "Bu proje Windows'taki çalışma ortamını geliştirmeyi hedeflemektedir."
-    IDS_ABOUT_AUTHOR            "Valentin-Gabriel Radu tarafından gururla tasarlandı"
+    IDS_ABOUT_AUTHOR            "%s ve %s tarafından gururla tasarlandı."
     IDS_ABOUT_OS                "İşletim sistemi %s, İS Derlemesi %d.%d."
     IDS_ABOUT_GITHUB            "GitHub'da projeyi ziyaret et"
     IDS_ABOUT_WEBSITE           "Proje websitesini ziyaret et"

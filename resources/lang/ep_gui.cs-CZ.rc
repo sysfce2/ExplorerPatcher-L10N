@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Verze %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "Projekt ExplorerPatcher má za cíl zlepšit pracovní prostředí Windows."
-    IDS_ABOUT_AUTHOR            "Pyšně vyvinul Valentin-Gabriel Radu."
+    IDS_ABOUT_AUTHOR            "Pyšně vyvinul %s a %s."
     IDS_ABOUT_OS                "Právě běží na %s, sestavení systému %d.%d."
     IDS_ABOUT_GITHUB            "Navštivte projekt ExplorerPatcheru na GitHubu"
     IDS_ABOUT_WEBSITE           "Navštivte webovou stránku"

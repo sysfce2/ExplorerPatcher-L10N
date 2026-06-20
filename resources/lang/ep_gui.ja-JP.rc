@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "バージョン %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           "このプロジェクトは、Windows 上での作業環境を改善することを目的としています。"
-    IDS_ABOUT_AUTHOR            "Valentin-Gabriel Radu によって設計されました。"
+    IDS_ABOUT_AUTHOR            "%s と %s によって設計されました。"
     IDS_ABOUT_OS                "%s、OS ビルド %d.%d で実行中です。"
     IDS_ABOUT_GITHUB            "プロジェクトの GitHub"
     IDS_ABOUT_WEBSITE           "Web サイト"

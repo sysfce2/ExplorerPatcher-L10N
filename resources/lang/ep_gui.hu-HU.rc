@@ -413,7 +413,7 @@ BEGIN
 
     IDS_ABOUT_VERSION           "Verzió: %d.%d.%d.%d%s"
     IDS_ABOUT_PROJECT           """Hogy jobb legyen Windowson dolgozni."""
-    IDS_ABOUT_AUTHOR            "Készítette: Valentin-Gabriel Radu."
+    IDS_ABOUT_AUTHOR            "Készítették: %s és %s."
     IDS_ABOUT_OS                "Rendszer: %s, build: %d.%d."
     IDS_ABOUT_GITHUB            "Projekt megtekintése a GitHubon"
     IDS_ABOUT_WEBSITE           "Látogassa meg a weboldalunkat"
